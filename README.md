@@ -1,17 +1,23 @@
-We develop mobile based App for exam preparation we used flutter and And for admin page we use Djago Kankor Exam Prepration is mobile based application, which will be used to help students to prepare in Kankor University Entrance Exam in Afghanistan.
-Kankor Exam Prepration is mobile based application, which will be used to help students to prepare in
-Kankor University Entrance Exam in Afghanistan.
+📱 KEP – Kankor Exam Preparation App
 
-This app will contain demo kankor exam which will have 160 mcqs type questions, the exam will have five section;
-Maths, Natural Studeis, Social Studeis, Language and General knowledge and also the app will show past papers, books,
-and a daily quiz in any subject .
+KEP (Kankor Exam Preparation) is a mobile-based educational application designed to help students in Afghanistan prepare effectively for the Kankor University Entrance Exam. The app provides structured learning materials, practice questions, and interactive features to support students in achieving their academic goals.
 
-Students can read all books of high school, and also they can read past papers of kankor exam.
-Student first need to create account and select their favorite subjet. Then login into the account and 
-select language among Pashto, Dari and English.
+The mobile application is developed using Flutter, ensuring a fast, responsive, and cross-platform user experience. For the backend and admin panel, we use Django, which allows efficient content management, user handling, and data processing.
 
-In the home page you will have Daily quiz, you select a subject and start daily quiz in that subject and 
-see your result. You will have all books you can 
+🚀 Key Features
+📚 Subject-wise study materials aligned with the Kankor syllabus
+📝 Practice quizzes and mock exams
+📊 Performance tracking and progress analysis
+🔐 User authentication and personalized learning experience
+🛠 Admin dashboard (Django) to manage questions, users, and content
+🎯 Goal
 
-open any book and read for your exam. Student can Read past paper of kankor exam for preparation of Kankor exam.
-Student can give Kankor demo exam which will contain 160 mcqs type questions, and see the result.
+The main goal of KEP is to make quality education accessible, structured, and affordable for all students in Afghanistan, including those with limited resources. It aims to guide students step by step toward success in the Kankor exam.
+
+🧑‍💻 Tech Stack
+Frontend: Flutter (Dart)
+Backend: Django (Python)
+Database: (you can add SQLite / PostgreSQL if you decide)
+🌍 Vision
+
+We aim to expand KEP into a complete digital learning platform that supports students not only in exam preparation but also in building a strong academic foundation for their future.
